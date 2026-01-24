@@ -1,6 +1,6 @@
 # Documentation for Personal AI 
 
-While I made couple little projects or setup something using AI (Claude Code / Open Code), I tell them to document so I and THEY can refer back later, so they not make same goddam mistakes again.
+While I made couple little projects or setup something using AI (Claude Code / Open Code), I tell them to document so I and THEY can refer back later, also for me to run it myself if needed.
 
 ## Hey AI, can you create an funny gif here?
 
